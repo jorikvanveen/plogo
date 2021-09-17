@@ -1,0 +1,27 @@
+{
+  "name": "plogo",
+  "version": "0.0.1",
+  "description": "Simple modelling utilities for p5.js, inspired by netlogo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorikvanveen/plogo.git"
+  },
+  "keywords": [
+    "modelling",
+    "p5",
+    "canvas"
+  ],
+  "author": "Jorik van Veen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorikvanveen/plogo/issues"
+  },
+  "homepage": "https://github.com/jorikvanveen/plogo#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
